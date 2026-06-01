@@ -5,6 +5,7 @@ Python 3.9 or above
 GPU T4 python 
 ## Setup 
 Install the required libraries:
+
 pip install -r requirements.txt
 ## Run the project 
 Run the streamlit application using :
