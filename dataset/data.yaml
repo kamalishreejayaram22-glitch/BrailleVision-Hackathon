@@ -1,0 +1,7 @@
+path: .
+train: dataset/images/train
+val: dataset/images/val
+test: dataset/images/test
+nc: 26
+names: ['a','b','c','d','e','f','g','h','i','j','k','l','m',
+        'n','o','p','q','r','s','t','u','v','w','x','y','z']
