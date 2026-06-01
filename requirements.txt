@@ -1,1 +1,10 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+pillow
+torch
+torchvision
+gtts
+pyttsx3
 
